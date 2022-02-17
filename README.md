@@ -3,7 +3,7 @@
 
 ### This repository contains: 
 
-#### The code that I used for training the model with Few Shot Learning and Supervised Learning (based in Kaggle)
+#### The code that I used for training the models with Few Shot Learning and Supervised Learning (based in Kaggle)
 - Indicated by the .ipynb files
 
 #### The weights for the few-shot learning based model and the supervised learning based model.
